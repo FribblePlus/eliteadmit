@@ -27,21 +27,12 @@ const Services = () => {
                 <br />
                 <ul className="flex flex-col gap-3">
                   <li className="leading-4">
-                    <span className="text-green-500 font-bold">$35</span> -
-                    Extracurriculars + Honors+Personal Statement
+                    {" "}
+                    - Extracurriculars + Honors+Personal Statement
                   </li>
-                  <li>
-                    <span className="text-green-500 font-bold">$35</span> -
-                    Personal Statement Review
-                  </li>
-                  <li>
-                    <span className="text-green-500 font-bold">$40</span> -
-                    Supplementary Essays (Word Limit: 1000)
-                  </li>
-                  <li>
-                    <span className="text-green-500 font-bold">$30</span> - 2
-                    Recommendation Letters review
-                  </li>
+                  <li> - Personal Statement Review</li>
+                  <li> - Supplementary Essays (Word Limit: 1000)</li>
+                  <li> - 2 Recommendation Letters review</li>
                 </ul>
               </li>
             </ul>
@@ -51,9 +42,6 @@ const Services = () => {
             <h1 className="font-bold text-4xl md:text-2xl text-center uppercase leading-10 lg:leading-5 text-[#154c49]">
               Partial <br></br> Support
             </h1>
-            <h2 className="font-bold text-4xl text-center uppercase text-[#154c49]">
-              $409
-            </h2>
             <ul className="flex flex-col gap-3 text-[15px]">
               <li>✅ Tailored guidance for those with specific needs</li>
               <li>
@@ -72,11 +60,8 @@ const Services = () => {
 
           <div className="w-9/12 lg:w-[25%] h-[75vh] bg-white flex flex-col p-5 items-center gap-3 hover:scale-105 ease-in-out duration-300">
             <h1 className="font-bold text-4xl md:text-2xl text-center uppercase leading-10 lg:leading-5 text-[#154c49]">
-              Partial <br></br> Support
+              Full <br></br> Support
             </h1>
-            <h2 className="font-bold text-4xl text-center uppercase text-[#154c49]">
-              $409
-            </h2>
             <ul className="flex flex-col gap-3 text-[15px]">
               <li>
                 ✅ Comprehensive assistance with every aspect of your
